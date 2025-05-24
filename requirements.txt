@@ -1,0 +1,2 @@
+requests   # we need to create this file to install all the necessary python libraries
+            # make http call to the local ollama server 
